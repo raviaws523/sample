@@ -25,5 +25,5 @@ app.use(userRoutes);
 
 
 app.listen(3000, () => {
-    console.log("Server is upto and running on port 3000");
+    console.log("Server is uptoup and running on port 3000");
 });
